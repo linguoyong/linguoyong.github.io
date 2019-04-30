@@ -1,10 +1,10 @@
 # Site settings
-title: XiaoYuXiXi
+title: 小羽嘻嘻
 SEOTitle: 小羽嘻嘻
 header-img: img/thumbnail-9.jpg
 email: 673811847@qq.com
 description: "闲来无事，学习搬砖"
-keyword: "XiaoYuXiXi, 勇哥的博客, java"
+keyword: "小羽嘻嘻, 勇哥的博客, java"
 url: "http://linguoyong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/linguoyong/linguoyong.github.io.git" # you code repository
